@@ -1,0 +1,6 @@
+{
+  "name": "BHOOMI-SETU",
+  "description": "National Land Intelligence & Resolution Engine for Smart India Hackathon 2026. One Request. One Parcel. One Complete Answer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
